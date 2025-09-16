@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Yohnzz!</h1>
+<h1 align="center">Hi there 👋 I'm Ignasius Mario!</h1>
 <p align="center">
   🚀 Selamat datang di Profil GitHub saya 🚀 <br>
   Seorang developer yang suka belajar, eksplorasi, dan membangun sesuatu yang bermanfaat ✨
