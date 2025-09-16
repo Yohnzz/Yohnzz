@@ -2,13 +2,11 @@
 
 Welcome to my GitHub profile! Here you'll find my journey as a developer, a collection of my projects, and a glimpse into my passion for coding and technology. 🚀
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning and building projects with JavaScript, Python, and more!
-- 🔭 Exploring new technologies and frameworks to expand my skillset.
-- 🎯 Passionate about problem-solving, automation, and creating impactful software.
-
 ## 📈 GitHub Stats
 ![Yohnzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=tokyonight)
+
+## 📈 GitHub Presentase
+![Yohnzz's GitHub Presentase]([https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&layout=pie))
 
 ## 🏆 Top Projects
 | Project         | Description                                      | Tech Used      |
