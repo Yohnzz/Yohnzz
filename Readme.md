@@ -1,12 +1,32 @@
-# Hi there 👋 I'm Yohnzz!
+<h1 align="center">Hi there 👋 I'm Yohnzz!</h1>
+<p align="center">
+  🚀 Selamat datang di Profil GitHub saya 🚀 <br>
+  Seorang developer yang suka belajar, eksplorasi, dan membangun sesuatu yang bermanfaat ✨
+</p>
 
-Welcome to my GitHub profile! Here you'll find my journey as a developer, a collection of my projects, and a glimpse into my passion for coding and technology. 🚀
+---
 
-## 📈 GitHub Stats
-![Yohnzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yohnzz&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
 
-## 📈 GitHub Presentase
-![Yohnzz's GitHub Presentase](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&layout=pie)
+---
+
+## 🎯 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,php,laravel,git,github" />
+</p>
+
+---
+
+## 📈 GitHub Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
 
 ## 🏆 Top Projects
 | Project         | Description                                      | Tech Used      |
@@ -16,3 +36,26 @@ Welcome to my GitHub profile! Here you'll find my journey as a developer, a coll
 | [Triono_SIM](https://github.com/Yohnzz/Triono_SIM)   | Simulation tool for complex systems.            | C++, Qt        |
 | [Puskesmas](https://github.com/Yohnzz/Puskesmas)     | Health center management platform.              | PHP, Laravel   |
 | [To-Do-List](https://github.com/Yohnzz/To-Do-List)   | Minimalist and efficient task manager.          | ReactJS        |
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/Yohnzz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white" /></a>
+  <a href="mailto:yohnzz@example.com"><img src="https://img.shields.io/badge/Email-green?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Facts
+- ☕ Coffee fuels my code  
+- 💪 Selalu siap untuk tantangan baru  
+- 🤝 Suka berkolaborasi & belajar hal baru  
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
