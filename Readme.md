@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you'll find my journey as a developer, a coll
 ![Yohnzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=tokyonight)
 
 ## 📈 GitHub Presentase
-![Yohnzz's GitHub Presentase]([https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&layout=pie))
+![Yohnzz's GitHub Presentase](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&layout=pie)
 
 ## 🏆 Top Projects
 | Project         | Description                                      | Tech Used      |
