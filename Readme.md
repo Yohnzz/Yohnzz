@@ -1,7 +1,9 @@
-<h1 align="center">Hi there 👋 I'm Ignasius Mario!</h1>
+<h1 align="center">
+  Hi there 👋 I'm Yohnzz!
+</h1>
+
 <p align="center">
-  🚀 Selamat datang di Profil GitHub saya 🚀 <br>
-  Seorang developer yang suka belajar, eksplorasi, dan membangun sesuatu yang bermanfaat ✨
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning+New+Things;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,6 +48,13 @@
   <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white" /></a>
   <a href="mailto:yohnzz@example.com"><img src="https://img.shields.io/badge/Email-green?logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+## ✨ Fun Facts
+- ☕ Coffee fuels my code  
+- 💪 Selalu siap untuk tantangan baru  
+- 🤝 Suka berkolaborasi & belajar hal baru  
 
 ---
 
