@@ -49,13 +49,6 @@
 
 ---
 
-## ✨ Fun Facts
-- ☕ Coffee fuels my code  
-- 💪 Selalu siap untuk tantangan baru  
-- 🤝 Suka berkolaborasi & belajar hal baru  
-
----
-
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
