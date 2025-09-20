@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+Learning+New+Things;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Front+End+Developer;Always+Learning+New+Things;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ## 🎯 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,php,laravel,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </p>
 
 ---
