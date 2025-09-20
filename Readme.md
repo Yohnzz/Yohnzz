@@ -33,11 +33,10 @@
 ## 🏆 Top Projects
 | Project         | Description                                      | Tech Used      |
 |-----------------|--------------------------------------------------|---------------|
-| [Quotes](https://github.com/Yohnzz/Quotes)           | Simple quote generator and manager.             | Python, Flask  |
+| [Quotes](https://github.com/Yohnzz/Quotes)           | Simple quote generator and manager.             | Tailwind CSS   |
 | [VELA](https://github.com/Yohnzz/VELA)               | Innovative data visualization toolkit.          | JavaScript     |
-| [Triono_SIM](https://github.com/Yohnzz/Triono_SIM)   | Simulation tool for complex systems.            | C++, Qt        |
-| [Puskesmas](https://github.com/Yohnzz/Puskesmas)     | Health center management platform.              | PHP, Laravel   |
-| [To-Do-List](https://github.com/Yohnzz/To-Do-List)   | Minimalist and efficient task manager.          | ReactJS        |
+| [Puskesmas](https://github.com/Yohnzz/Puskesmas)     | Health center management platform.              | Javascript     |
+| [To-Do-List](https://github.com/Yohnzz/To-Do-List)   | Minimalist and efficient task manager.          | JS DOM         |
 
 ---
 
