@@ -42,10 +42,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/Yohnzz"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white" /></a>
-  <a href="mailto:yohnzz@example.com"><img src="https://img.shields.io/badge/Email-green?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ignasius-mario-717a04384"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ignasiusmario05"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Yohnkce"><img src="https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white" /></a>
+<!--   <a href="mailto:yohnzz@example.com"><img src="https://img.shields.io/badge/Email-green?logo=gmail&logoColor=white" /></a> -->
 </p>
 
 ---
