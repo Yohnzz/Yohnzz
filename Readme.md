@@ -21,11 +21,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </p>
 
----
-
-## 📈 GitHub Languages
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz" alt="Top Langs" />
 </p> -->
 
 ---
@@ -34,7 +31,6 @@
 | Project         | Description                                      | Tech Used      |
 |-----------------|--------------------------------------------------|---------------|
 | [Quotes](https://github.com/Yohnzz/Quotes)           | Simple quote generator and manager.             | Tailwind CSS   |
-| [VELA](https://github.com/Yohnzz/VELA)               | Innovative data visualization toolkit.          | JavaScript     |
 | [Puskesmas](https://github.com/Yohnzz/Puskesmas)     | Health center management platform.              | Javascript     |
 | [To-Do-List](https://github.com/Yohnzz/To-Do-List)   | Minimalist and efficient task manager.          | JS DOM         |
 
@@ -46,17 +42,4 @@
   <a href="https://instagram.com/ignasiusmario05"><img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@Yohnkce"><img src="https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white" /></a>
 <!--   <a href="mailto:yohnzz@example.com"><img src="https://img.shields.io/badge/Email-green?logo=gmail&logoColor=white" /></a> -->
-</p>
-
----
-
-## ✨ Fun Facts
-- ☕ Coffee fuels my code  
-- 💪 Selalu siap untuk tantangan baru  
-- 🤝 Suka berkolaborasi & belajar hal baru  
-
----
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
