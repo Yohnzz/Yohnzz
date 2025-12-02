@@ -24,9 +24,9 @@
 ---
 
 ## 📈 GitHub Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohnzz&theme=tokyonight" alt="Top Langs" />
+</p> -->
 
 ---
 
