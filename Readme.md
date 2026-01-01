@@ -6,15 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Front+End+Developer;Always+Learning+New+Things;Coffee+%2B+Code+%3D+Life" alt="Typing SVG" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <!-- <img src="https://streak-stats.demolab.com/?user=Yohnzz" alt="GitHub Streak" height="180" /> -->
-</p>
-
----
+  <img src="https://streak-stats.demolab.com/?user=Yohnzz" alt="GitHub Streak" height="180" />
+</p> -->
 
 ## 🎯 Languages & Tools
 <p align="center">
