@@ -22,7 +22,7 @@
 
 ---
 
-## 🏆 Top Projects
+## 🏆 Mini Project
 | Project         | Description                                      | Tech Used      |
 |-----------------|--------------------------------------------------|---------------|
 | [Quotes](https://github.com/Yohnzz/Quotes)           | Simple quote generator and manager.             | Tailwind CSS   |
