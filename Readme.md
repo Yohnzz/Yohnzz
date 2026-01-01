@@ -10,8 +10,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=radical" alt="GitHub Stats" height="180" /> -->
-  <img src="https://streak-stats.demolab.com/?user=Yohnzz" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yohnzz&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=Yohnzz" alt="GitHub Streak" height="180" /> -->
 </p>
 
 ---
